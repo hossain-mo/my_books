@@ -1,0 +1,18 @@
+بص انا هقول تجربتى الخاصه
+انا بصنف courses الML لاكتر من حاجه
+وكل تصنيف هقولك شوفت courses ايه بالترتيب الزمنى
+- Semi practical ML
+Andrew NG: all you have to learn all algorithms
+Stat quest:
+Trees: Decision Tree, Random Forest, Gradient Boosting, xgBoost
+metrics: precision, recal, F1 score, ...
+victorlavrenko
+https://www.youtube.com/c/VictorLavrenko/playlists...
+وتانى حاجه شوفتها Handas on sklearn
+https://www.youtube.com/watch?v=2kT6QOVSgSg
+https://www.youtube.com/watch?v=WLYzSas511I
+بعد كده theoretical
+Dr.Waleed
+caltech
+nptelhrd
+Tom Mitchell
