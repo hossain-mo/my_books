@@ -1,0 +1,13 @@
+* How does the internet work?
+* What is programming language?
+* What is code editor
+* What is HTTP?
+* Browser how it works?
+* DNS and how it works?
+* What is Domain Name?
+* What is hosting?
+
+
+* How do operating systems work?
+* What is terminal?
+* CMD commands you should know 
